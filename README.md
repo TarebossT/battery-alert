@@ -1,4 +1,3 @@
-# battery-alert
-battery alert
-Put this in /usr/local/bin/
-Put battery & in .xinitrc
+# battery alert
+# Put this in /usr/local/bin/
+# Put battery & in .xinitrc
