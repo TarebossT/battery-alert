@@ -36,5 +36,5 @@ while true; do
       last=CRITICAL
     fi
   fi
-  sleep 300
+  sleep 60
 done
